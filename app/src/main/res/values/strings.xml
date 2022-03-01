@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragments Examle</string>
+    <string name="go_back">go back</string>
+    <string name="launch_next">launch next</string>
+    <string name="some_quote">Some quote</string>
+    <string name="screen_1">Screen #1</string>
+</resources>
